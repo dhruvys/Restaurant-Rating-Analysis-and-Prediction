@@ -58,30 +58,42 @@ RandomForestRegressor & LinearRegression → Predictive modeling
 🔹 Level 1: Data Cleaning & Exploration
 
 ✔ Checked for missing values & handled them appropriately
+
 ✔ Converted categorical data into numerical format (Label Encoding)
+
 ✔ Explored restaurant ratings, cuisines, and price distribution
+
 ✔ Visualized geographical distribution using folium
 
 🔹 Level 2: Business Trend Analysis
 
 ✔ Analyzed the impact of table booking & online delivery on ratings
+
 ✔ Identified the most popular cuisines & highest-rated cities
+
 ✔ Engineered new features such as Restaurant_Name_Length
+
 ✔ Used Plotly to create interactive graphs for better insights
 
 🔹 Level 3: Predictive Modeling & Customer Insights
 
 ✔ Trained a Machine Learning model (Random Forest, Linear Regression) to predict ratings
+
 ✔ Used Label Encoding to convert categorical data
+
 ✔ Evaluated model performance using MAE (Mean Absolute Error)
+
 ✔ Created interactive bar charts for better data representation
 
 ### 📊 Results & Insights
 📌 Findings from the Analysis:
 
 ✔ Cities like Bangalore & Delhi have the highest-rated restaurants
+
 ✔ Restaurants that offer table booking & online delivery tend to have higher ratings
+
 ✔ Fine dining restaurants receive higher ratings than budget restaurants
+
 ✔ North Indian & Italian cuisines are among the most highly rated
 
 ### 📌 Machine Learning Model Performance:
@@ -94,7 +106,9 @@ Model	MAE (Lower is Better)
 
 ### 🔗 Future Improvements
 🚀 Enhance model performance with deep learning (Neural Networks)
+
 🚀 Use NLP techniques to analyze customer reviews
+
 🚀 Create a web app to allow users to predict restaurant ratings interactively
 
 ### 📜 License
