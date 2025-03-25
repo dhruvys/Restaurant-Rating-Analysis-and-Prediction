@@ -40,7 +40,7 @@ scikit-learn → Model training & evaluation
 
 RandomForestRegressor & LinearRegression → Predictive modeling
 
-📌 Project Breakdown
+### 📌 Project Breakdown
 🔹 Level 1: Data Cleaning & Exploration
 ✔ Checked for missing values & handled them appropriately
 ✔ Converted categorical data into numerical format (Label Encoding)
@@ -59,19 +59,19 @@ RandomForestRegressor & LinearRegression → Predictive modeling
 ✔ Evaluated model performance using MAE (Mean Absolute Error)
 ✔ Created interactive bar charts for better data representation
 
-📊 Results & Insights
+### 📊 Results & Insights
 📌 Findings from the Analysis:
 ✔ Cities like Bangalore & Delhi have the highest-rated restaurants
 ✔ Restaurants that offer table booking & online delivery tend to have higher ratings
 ✔ Fine dining restaurants receive higher ratings than budget restaurants
 ✔ North Indian & Italian cuisines are among the most highly rated
 
-📌 Machine Learning Model Performance:
+### 📌 Machine Learning Model Performance:
 
 Model	MAE (Lower is Better)
-Linear Regression	0.92 
-Random Forest	0.11
-Conclusion: The Random Forest model performed better, showing a strong ability to predict restaurant ratings based on key factors.
+# Linear Regression	0.92 
+# Random Forest	0.11
+# Conclusion: The Random Forest model performed better, showing a strong ability to predict restaurant ratings based on key factors.
 
 
 🔗 Future Improvements
@@ -82,7 +82,7 @@ Conclusion: The Random Forest model performed better, showing a strong ability t
 📜 License
 This project is open-source and available under the MIT License.
 
-🔗 Contributors & Contact
+### 🔗 Contact
 👤 Dhruv Vyas
 🔗 [LinkedIn](https://www.linkedin.com/in/dhruvys/)
 🌐 [GitHub Profile](https://github.com/dhruvys)
