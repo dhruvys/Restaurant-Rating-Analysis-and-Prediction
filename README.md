@@ -69,7 +69,7 @@ RandomForestRegressor & LinearRegression → Predictive modeling
 📌 Machine Learning Model Performance:
 
 Model	MAE (Lower is Better)
-Linear Regression	0.92
+Linear Regression	0.92 
 Random Forest	0.11
 Conclusion: The Random Forest model performed better, showing a strong ability to predict restaurant ratings based on key factors.
 
