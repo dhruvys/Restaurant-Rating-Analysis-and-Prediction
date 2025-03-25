@@ -8,7 +8,7 @@ Using Python and machine learning, we gain valuable insights into customer prefe
 2️⃣ Trend Analysis & Feature Engineering
 3️⃣ Predictive Modeling & Customer Insights
 
-🔹 Data Used
+### 🔹 Data Used
 📌 Dataset: The dataset contains information about restaurants, including:
 ✔ City & Country
 ✔ Cuisines Offered
@@ -69,17 +69,17 @@ RandomForestRegressor & LinearRegression → Predictive modeling
 ### 📌 Machine Learning Model Performance:
 
 Model	MAE (Lower is Better)
-# Linear Regression	0.92 
-# Random Forest	0.11
-# Conclusion: The Random Forest model performed better, showing a strong ability to predict restaurant ratings based on key factors.
+### Linear Regression	0.92 
+### Random Forest	0.11
+### Conclusion: The Random Forest model performed better, showing a strong ability to predict restaurant ratings based on key factors.
 
 
-🔗 Future Improvements
+### 🔗 Future Improvements
 🚀 Enhance model performance with deep learning (Neural Networks)
 🚀 Use NLP techniques to analyze customer reviews
 🚀 Create a web app to allow users to predict restaurant ratings interactively
 
-📜 License
+### 📜 License
 This project is open-source and available under the MIT License.
 
 ### 🔗 Contact
